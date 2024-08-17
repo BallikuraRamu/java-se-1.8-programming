@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 public class FindDuplicateString {
     public static void main(String[] args) {
-        String inputFile = "C:\\Users\\SHARPGURUS\\Downloads\\seniority-move tieup-employee-assignment.txt";
-        String outputFile = "C:\\Users\\SHARPGURUS\\Downloads\\sort transtive- seniority-move tieup-emp-assignment.txt";
+        String inputFile = "C:\\Users\\SHARPGURUS\\Music\\update-employee-assignment mvn tree.txt";
+        String outputFile = "C:\\Users\\SHARPGURUS\\Music\\find transitive - update-employee-assignment.txt";
 
         try {
             // Read all lines from the input file

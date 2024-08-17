@@ -6,9 +6,8 @@ import java.util.stream.Collectors;
 
 public class FindAndSortDuplicates {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        String inputFile = scanner.nextLine();
-        String outputFile = "C:\\Users\\SHARPGURUS\\Downloads\\sort transtive- seniority-move tieup-emp-assignment.txt";
+        String inputFile = "C:\\Users\\SHARPGURUS\\Music\\find transitive - update-employee-assignment.txt";
+        String outputFile = "C:\\Users\\SHARPGURUS\\Music\\sort transitive - update-employee-assignment.txt";
 
         try {
             // Read all lines from the input file
